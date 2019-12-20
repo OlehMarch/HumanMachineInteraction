@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.htm
+*.db
+*.ipch
+*.metagen
+*.res
+*.manifest
+*.resources
+*.dep
+*.idb
+*.tlog
+*.lastbuildstate
+*.bi
+*.sdf
